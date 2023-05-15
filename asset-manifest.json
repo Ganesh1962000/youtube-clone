@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/youtube-clone/static/css/main.bd87fc49.css",
+    "main.js": "/youtube-clone/static/js/main.d6b62db9.js",
+    "static/media/YouTube-Logo.png": "/youtube-clone/static/media/YouTube-Logo.c94c486247afe814152e.png",
+    "index.html": "/youtube-clone/index.html",
+    "main.bd87fc49.css.map": "/youtube-clone/static/css/main.bd87fc49.css.map",
+    "main.d6b62db9.js.map": "/youtube-clone/static/js/main.d6b62db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd87fc49.css",
+    "static/js/main.d6b62db9.js"
+  ]
+}
